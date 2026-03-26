@@ -5,7 +5,7 @@ const http = require("http");
 
 // ===== CONFIG =====
 const EMAIL_USER = "verysafectfmail@gmail.com";
-const EMAIL_PASS = "crqj mpqi eiqq ugrc";
+const EMAIL_PASS = "That's a secret ;)";
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
